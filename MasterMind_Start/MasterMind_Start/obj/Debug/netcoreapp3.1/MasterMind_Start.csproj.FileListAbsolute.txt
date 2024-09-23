@@ -1,0 +1,13 @@
+/Users/uneekconcepts/Dropbox/KA Malle @school/C#/MasterMind/MasterMind_Start/MasterMind_Start/bin/Debug/netcoreapp3.1/MasterMind_Start.deps.json
+/Users/uneekconcepts/Dropbox/KA Malle @school/C#/MasterMind/MasterMind_Start/MasterMind_Start/bin/Debug/netcoreapp3.1/MasterMind_Start.runtimeconfig.json
+/Users/uneekconcepts/Dropbox/KA Malle @school/C#/MasterMind/MasterMind_Start/MasterMind_Start/bin/Debug/netcoreapp3.1/MasterMind_Start.runtimeconfig.dev.json
+/Users/uneekconcepts/Dropbox/KA Malle @school/C#/MasterMind/MasterMind_Start/MasterMind_Start/bin/Debug/netcoreapp3.1/MasterMind_Start.dll
+/Users/uneekconcepts/Dropbox/KA Malle @school/C#/MasterMind/MasterMind_Start/MasterMind_Start/bin/Debug/netcoreapp3.1/MasterMind_Start.pdb
+/Users/uneekconcepts/Dropbox/KA Malle @school/C#/MasterMind/MasterMind_Start/MasterMind_Start/obj/Debug/netcoreapp3.1/MasterMind_Start.csproj.AssemblyReference.cache
+/Users/uneekconcepts/Dropbox/KA Malle @school/C#/MasterMind/MasterMind_Start/MasterMind_Start/obj/Debug/netcoreapp3.1/MasterMind_Start.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uneekconcepts/Dropbox/KA Malle @school/C#/MasterMind/MasterMind_Start/MasterMind_Start/obj/Debug/netcoreapp3.1/MasterMind_Start.AssemblyInfoInputs.cache
+/Users/uneekconcepts/Dropbox/KA Malle @school/C#/MasterMind/MasterMind_Start/MasterMind_Start/obj/Debug/netcoreapp3.1/MasterMind_Start.AssemblyInfo.cs
+/Users/uneekconcepts/Dropbox/KA Malle @school/C#/MasterMind/MasterMind_Start/MasterMind_Start/obj/Debug/netcoreapp3.1/MasterMind_Start.csproj.CoreCompileInputs.cache
+/Users/uneekconcepts/Dropbox/KA Malle @school/C#/MasterMind/MasterMind_Start/MasterMind_Start/obj/Debug/netcoreapp3.1/MasterMind_Start.dll
+/Users/uneekconcepts/Dropbox/KA Malle @school/C#/MasterMind/MasterMind_Start/MasterMind_Start/obj/Debug/netcoreapp3.1/MasterMind_Start.pdb
+/Users/uneekconcepts/Dropbox/KA Malle @school/C#/MasterMind/MasterMind_Start/MasterMind_Start/obj/Debug/netcoreapp3.1/MasterMind_Start.genruntimeconfig.cache
